@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Sayro1337
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Sayro1337/Sayro1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Im Sayro
+C++ Software Developper
+Contact me on Discord : ! Sayro#1337
+Have A Good Day!
